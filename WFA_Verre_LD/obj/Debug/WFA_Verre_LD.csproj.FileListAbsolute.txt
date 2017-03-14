@@ -1,0 +1,9 @@
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\bin\Debug\WFA_Verre_LD.exe.config
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\bin\Debug\WFA_Verre_LD.exe
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\bin\Debug\WFA_Verre_LD.pdb
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\obj\Debug\WFA_Verre_LD.csprojResolveAssemblyReference.cache
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\obj\Debug\WFA_Verre_LD.frmMain.resources
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\obj\Debug\WFA_Verre_LD.Properties.Resources.resources
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\obj\Debug\WFA_Verre_LD.csproj.GenerateResource.Cache
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\obj\Debug\WFA_Verre_LD.exe
+C:\Users\DONATIL_INFO\Documents\Visual Studio 2013\Projects\WFA_Verre_LD\WFA_Verre_LD\obj\Debug\WFA_Verre_LD.pdb
