@@ -73,8 +73,8 @@ namespace WFA_Verre_LD
             // Rectangle dans lequel sera dessiné la bulle
             Rectangle recDessin = new Rectangle(Point.Round(location), size);
 
-            e.Graphics.FillEllipse(Brushes.White, recDessin);
-            e.Graphics.DrawEllipse(Pens.DimGray, recDessin);
+            e.Graphics.FillRectangle(Brushes.White, recDessin);
+            e.Graphics.DrawRectangle(Pens.DimGray, recDessin);
         }
     }
 }
